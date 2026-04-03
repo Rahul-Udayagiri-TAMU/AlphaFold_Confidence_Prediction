@@ -1,0 +1,27 @@
+{
+  "feature_prefix": "esm",
+  "model": "ridge",
+  "seed": 42,
+  "selection_metric": "pearson",
+  "n_train": 1390,
+  "n_val": 298,
+  "n_test": 299,
+  "input_dim": 320,
+  "best_params": {
+    "alpha": 100.0
+  },
+  "best_val_metrics": {
+    "pearson": 0.9251355528831482,
+    "spearman": 0.9153225025027347,
+    "mae": 3.555655002593994,
+    "rmse": 4.687486775697492,
+    "r2": 0.8557645678520203
+  },
+  "test_metrics": {
+    "pearson": 0.9344241619110107,
+    "spearman": 0.927338450231784,
+    "mae": 3.733746290206909,
+    "rmse": 4.821681788016768,
+    "r2": 0.8730909824371338
+  }
+}

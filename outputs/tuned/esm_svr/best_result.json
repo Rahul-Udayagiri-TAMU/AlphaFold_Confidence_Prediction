@@ -1,0 +1,29 @@
+{
+  "feature_prefix": "esm",
+  "model": "svr",
+  "seed": 42,
+  "selection_metric": "pearson",
+  "n_train": 1390,
+  "n_val": 298,
+  "n_test": 299,
+  "input_dim": 320,
+  "best_params": {
+    "C": 10.0,
+    "epsilon": 0.01,
+    "gamma": "scale"
+  },
+  "best_val_metrics": {
+    "pearson": 0.9305957729303528,
+    "spearman": 0.9253635033699126,
+    "mae": 3.3778405809238476,
+    "rmse": 4.603940547161264,
+    "r2": 0.8608602272667845
+  },
+  "test_metrics": {
+    "pearson": 0.929011017410096,
+    "spearman": 0.9318815928026437,
+    "mae": 3.6833319212314137,
+    "rmse": 5.081064273581437,
+    "r2": 0.8590695808147908
+  }
+}

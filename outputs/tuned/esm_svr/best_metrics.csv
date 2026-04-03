@@ -1,0 +1,2 @@
+feature_prefix,model,selection_metric,input_dim,C,epsilon,gamma,best_val_pearson,best_val_spearman,best_val_mae,best_val_rmse,best_val_r2,test_pearson,test_spearman,test_mae,test_rmse,test_r2
+esm,svr,pearson,320,10.0,0.01,scale,0.9305957729303528,0.9253635033699126,3.3778405809238476,4.603940547161264,0.8608602272667845,0.929011017410096,0.9318815928026437,3.6833319212314137,5.081064273581437,0.8590695808147908

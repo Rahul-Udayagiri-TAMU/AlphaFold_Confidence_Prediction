@@ -1,0 +1,34 @@
+Loading data from: outputs/esm_small_2000
+Feature prefix: basic
+Model: mlp
+Shapes:
+  X_train: (1390, 29)
+  X_val  : (298, 29)
+  X_test : (299, 29)
+  y_train: (1390,)
+  y_val  : (298,)
+  y_test : (299,)
+DONE
+{
+  "feature_prefix": "basic",
+  "model": "mlp",
+  "seed": 42,
+  "n_train": 1390,
+  "n_val": 298,
+  "n_test": 299,
+  "input_dim": 29,
+  "val_metrics": {
+    "pearson": 0.8069201707839966,
+    "spearman": 0.7527372361241895,
+    "mae": 5.731037139892578,
+    "rmse": 7.317284217209941,
+    "r2": 0.648527204990387
+  },
+  "test_metrics": {
+    "pearson": 0.8112446069717407,
+    "spearman": 0.7940367213646259,
+    "mae": 6.126389980316162,
+    "rmse": 7.949900394991324,
+    "r2": 0.6550002694129944
+  }
+}

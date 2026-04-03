@@ -1,0 +1,31 @@
+{
+  "feature_prefix": "basic",
+  "model": "xgb",
+  "seed": 42,
+  "selection_metric": "pearson",
+  "n_train": 1390,
+  "n_val": 298,
+  "n_test": 299,
+  "input_dim": 29,
+  "best_params": {
+    "n_estimators": 500,
+    "max_depth": 7,
+    "learning_rate": 0.01,
+    "subsample": 0.8,
+    "colsample_bytree": 1.0
+  },
+  "best_val_metrics": {
+    "pearson": 0.8213716149330139,
+    "spearman": 0.7896691918269791,
+    "mae": 5.452956199645996,
+    "rmse": 7.0447824420461505,
+    "r2": 0.6742180585861206
+  },
+  "test_metrics": {
+    "pearson": 0.8412773609161377,
+    "spearman": 0.8102003427345666,
+    "mae": 5.913301467895508,
+    "rmse": 7.397744747546614,
+    "r2": 0.7012594938278198
+  }
+}

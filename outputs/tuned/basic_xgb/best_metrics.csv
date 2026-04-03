@@ -1,0 +1,2 @@
+feature_prefix,model,selection_metric,input_dim,n_estimators,max_depth,learning_rate,subsample,colsample_bytree,best_val_pearson,best_val_spearman,best_val_mae,best_val_rmse,best_val_r2,test_pearson,test_spearman,test_mae,test_rmse,test_r2
+basic,xgb,pearson,29,500,7,0.01,0.8,1.0,0.8213716149330139,0.7896691918269791,5.452956199645996,7.0447824420461505,0.6742180585861206,0.8412773609161377,0.8102003427345666,5.913301467895508,7.397744747546614,0.7012594938278198

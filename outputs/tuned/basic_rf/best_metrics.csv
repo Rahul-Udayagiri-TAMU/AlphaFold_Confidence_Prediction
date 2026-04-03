@@ -1,0 +1,2 @@
+feature_prefix,model,selection_metric,input_dim,n_estimators,max_depth,min_samples_split,min_samples_leaf,best_val_pearson,best_val_spearman,best_val_mae,best_val_rmse,best_val_r2,test_pearson,test_spearman,test_mae,test_rmse,test_r2
+basic,rf,pearson,29,500,,2,1,0.807326316972224,0.7834608486543047,5.596854521484716,7.284029440981273,0.6517146066089692,0.8427120665751568,0.8038352294004824,6.025589209013293,7.375235263342697,0.7030747550426416

@@ -1,0 +1,12 @@
+{
+  "n_total": 100,
+  "n_train": 70,
+  "n_val": 15,
+  "n_test": 15,
+  "basic_dim": 29,
+  "esm_model": null,
+  "esm_dim": null,
+  "skip_embeddings": true,
+  "cache_file": "cache/test100/afdb_cache.json",
+  "fail_log_file": "cache/test100/afdb_fail_log.json"
+}

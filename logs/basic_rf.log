@@ -1,0 +1,34 @@
+Loading data from: outputs/esm_small_2000
+Feature prefix: basic
+Model: rf
+Shapes:
+  X_train: (1390, 29)
+  X_val  : (298, 29)
+  X_test : (299, 29)
+  y_train: (1390,)
+  y_val  : (298,)
+  y_test : (299,)
+DONE
+{
+  "feature_prefix": "basic",
+  "model": "rf",
+  "seed": 42,
+  "n_train": 1390,
+  "n_val": 298,
+  "n_test": 299,
+  "input_dim": 29,
+  "val_metrics": {
+    "pearson": 0.8044910560032248,
+    "spearman": 0.7782752881874929,
+    "mae": 5.631200871624421,
+    "rmse": 7.33141541688655,
+    "r2": 0.6471683521065148
+  },
+  "test_metrics": {
+    "pearson": 0.8445613241648467,
+    "spearman": 0.8063595466609512,
+    "mae": 5.994744985430497,
+    "rmse": 7.334476159938534,
+    "r2": 0.7063475902719654
+  }
+}
