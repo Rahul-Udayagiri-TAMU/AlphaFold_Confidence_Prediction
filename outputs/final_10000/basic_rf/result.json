@@ -1,0 +1,26 @@
+{
+  "feature_prefix": "basic",
+  "model": "rf",
+  "seed": 42,
+  "input_dim": 29,
+  "params": {
+    "n_estimators": 500,
+    "max_depth": null,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1
+  },
+  "val_metrics": {
+    "pearson": 0.8477524200847466,
+    "spearman": 0.8195436595628364,
+    "mae": 5.300677249192508,
+    "rmse": 6.924141119636281,
+    "r2": 0.7163063860239673
+  },
+  "test_metrics": {
+    "pearson": 0.8528398470824344,
+    "spearman": 0.8290941467822469,
+    "mae": 5.247280219847281,
+    "rmse": 6.788045944512917,
+    "r2": 0.7243308916285836
+  }
+}

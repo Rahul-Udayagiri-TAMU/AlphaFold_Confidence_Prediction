@@ -1,0 +1,27 @@
+{
+  "feature_prefix": "combined",
+  "model": "xgb",
+  "seed": 42,
+  "input_dim": 349,
+  "params": {
+    "n_estimators": 500,
+    "max_depth": 5,
+    "learning_rate": 0.05,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8
+  },
+  "val_metrics": {
+    "pearson": 0.9422160387039185,
+    "spearman": 0.9363624899824168,
+    "mae": 3.148413896560669,
+    "rmse": 4.359848379596062,
+    "r2": 0.8875238299369812
+  },
+  "test_metrics": {
+    "pearson": 0.940051794052124,
+    "spearman": 0.9281461690957756,
+    "mae": 3.287186861038208,
+    "rmse": 4.429382636665316,
+    "r2": 0.882622480392456
+  }
+}

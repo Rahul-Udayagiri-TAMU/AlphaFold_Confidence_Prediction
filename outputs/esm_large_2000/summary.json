@@ -1,0 +1,12 @@
+{
+  "n_total": 1987,
+  "n_train": 1390,
+  "n_val": 298,
+  "n_test": 299,
+  "basic_dim": 29,
+  "esm_model": "facebook/esm2_t33_650M_UR50D",
+  "esm_dim": 1280,
+  "skip_embeddings": false,
+  "cache_file": "cache/data2000/afdb_cache.json",
+  "fail_log_file": "cache/data2000/afdb_fail_log.json"
+}

@@ -1,0 +1,2 @@
+feature_prefix,model,seed,input_dim,n_estimators,max_depth,learning_rate,subsample,colsample_bytree,val_pearson,val_spearman,val_mae,val_rmse,val_r2,test_pearson,test_spearman,test_mae,test_rmse,test_r2
+combined,xgb,42,1309,500,5,0.05,0.8,0.8,0.9600142240524292,0.9582632848458744,2.6100051403045654,3.6477019979745924,0.9212670922279358,0.9559098482131958,0.9498493931906578,2.7535152435302734,3.8178680650187022,0.9127951860427856

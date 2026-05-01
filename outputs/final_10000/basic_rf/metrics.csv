@@ -1,0 +1,2 @@
+feature_prefix,model,seed,input_dim,n_estimators,max_depth,min_samples_split,min_samples_leaf,val_pearson,val_spearman,val_mae,val_rmse,val_r2,test_pearson,test_spearman,test_mae,test_rmse,test_r2
+basic,rf,42,29,500,,2,1,0.8477524200847466,0.8195436595628364,5.300677249192508,6.924141119636281,0.7163063860239673,0.8528398470824344,0.8290941467822469,5.247280219847281,6.788045944512917,0.7243308916285836
