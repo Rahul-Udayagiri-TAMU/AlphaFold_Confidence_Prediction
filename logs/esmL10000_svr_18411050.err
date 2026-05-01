@@ -1,0 +1,54 @@
++ module purge
++ '[' -z '' ']'
++ case "$-" in
++ __lmod_sh_dbg=x
++ '[' -n x ']'
++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output
+Shell debugging restarted
++ unset __lmod_sh_dbg
++ return 0
++ module load GCC/12.3.0 OpenMPI/4.1.5 PyTorch/2.1.2-CUDA-12.1.1
++ '[' -z '' ']'
++ case "$-" in
++ __lmod_sh_dbg=x
++ '[' -n x ']'
++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output
+Shell debugging restarted
++ unset __lmod_sh_dbg
++ return 0
++ cd /scratch/user/udayagirirahul7/ECEN766_final
++ source venv_ecen766/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/scratch/user/udayagirirahul7/ECEN766_final/venv_ecen766
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/sw/eb/sw/PyTorch/2.1.2-foss-2023a-CUDA-12.1.1/bin:/sw/eb/sw/Z3/4.12.2-GCCcore-12.3.0/bin:/sw/eb/sw/sympy/1.12-gfbf-2023a/bin:/sw/eb/sw/poetry/1.5.1-GCCcore-12.3.0/bin:/sw/eb/sw/hatchling/1.18.0-GCCcore-12.3.0/bin:/sw/eb/sw/LibTIFF/4.5.0-GCCcore-12.3.0/bin:/sw/eb/sw/libdeflate/1.18-GCCcore-12.3.0/bin:/sw/eb/sw/zstd/1.5.5-GCCcore-12.3.0/bin:/sw/eb/sw/lz4/1.9.4-GCCcore-12.3.0/bin:/sw/eb/sw/gzip/1.12-GCCcore-12.3.0/bin:/sw/eb/sw/jbigkit/2.1-GCCcore-12.3.0/bin:/sw/eb/sw/libjpeg-turbo/2.1.5.1-GCCcore-12.3.0/bin:/sw/eb/sw/FFmpeg/6.0-GCCcore-12.3.0/bin:/sw/eb/sw/SDL2/2.28.2-GCCcore-12.3.0/bin:/sw/eb/sw/FriBidi/1.0.12-GCCcore-12.3.0/bin:/sw/eb/sw/X11/20230603-GCCcore-12.3.0/bin:/sw/eb/sw/fontconfig/2.14.2-GCCcore-12.3.0/bin:/sw/eb/sw/util-linux/2.39-GCCcore-12.3.0/sbin:/sw/eb/sw/util-linux/2.39-GCCcore-12.3.0/bin:/sw/eb/sw/freetype/2.13.0-GCCcore-12.3.0/bin:/sw/eb/sw/Brotli/1.0.9-GCCcore-12.3.0/bin:/sw/eb/sw/libpng/1.6.39-GCCcore-12.3.0/bin:/sw/eb/sw/expat/2.5.0-GCCcore-12.3.0/bin:/sw/eb/sw/x265/3.5-GCCcore-12.3.0/bin:/sw/eb/sw/LAME/3.100-GCCcore-12.3.0/bin:/sw/eb/sw/x264/20230226-GCCcore-12.3.0/bin:/sw/eb/sw/NASM/2.16.01-GCCcore-12.3.0/bin:/sw/eb/sw/SciPy-bundle/2023.07-gfbf-2023a/bin:/sw/eb/sw/pybind11/2.11.1-GCCcore-12.3.0/bin:/sw/eb/sw/protobuf/24.0-GCCcore-12.3.0/bin:/sw/eb/sw/Python-bundle-PyPI/2023.06-GCCcore-12.3.0/bin:/sw/eb/sw/virtualenv/20.23.1-GCCcore-12.3.0/bin:/sw/eb/sw/Python/3.11.3-GCCcore-12.3.0/bin:/sw/eb/sw/SQLite/3.42.0-GCCcore-12.3.0/bin:/sw/eb/sw/Tcl/8.6.13-GCCcore-12.3.0/bin:/sw/eb/sw/ncurses/6.4-GCCcore-12.3.0/bin:/sw/eb/sw/bzip2/1.0.8-GCCcore-12.3.0/bin:/sw/eb/sw/Ninja/1.11.1-GCCcore-12.3.0/bin:/sw/eb/sw/CUDA/12.1.1/nvvm/bin:/sw/eb/sw/CUDA/12.1.1/bin:/sw/eb/sw/FFTW/3.3.10-GCC-12.3.0/bin:/sw/eb/sw/FlexiBLAS/3.3.1-GCC-12.3.0/bin:/sw/eb/sw/OpenMPI/4.1.5-GCC-12.3.0/bin:/sw/eb/sw/UCC/1.2.0-GCCcore-12.3.0/bin:/sw/eb/sw/PMIx/4.2.4-GCCcore-12.3.0/bin:/sw/eb/sw/libfabric/1.18.0-GCCcore-12.3.0/bin:/sw/eb/sw/UCX/1.14.1-GCCcore-12.3.0/bin:/sw/eb/sw/libevent/2.1.12-GCCcore-12.3.0/bin:/sw/eb/sw/OpenSSL/1.1/bin:/sw/eb/sw/hwloc/2.9.1-GCCcore-12.3.0/sbin:/sw/eb/sw/hwloc/2.9.1-GCCcore-12.3.0/bin:/sw/eb/sw/libxml2/2.11.4-GCCcore-12.3.0/bin:/sw/eb/sw/XZ/5.4.2-GCCcore-12.3.0/bin:/sw/eb/sw/numactl/2.0.16-GCCcore-12.3.0/bin:/sw/eb/sw/binutils/2.40-GCCcore-12.3.0/bin:/sw/eb/sw/GCCcore/12.3.0/bin:/sw/local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/usr/lpp/mmfs/bin:/home/udayagirirahul7/.local/bin:/home/udayagirirahul7/bin
+++ PATH=/scratch/user/udayagirirahul7/ECEN766_final/venv_ecen766/bin:/sw/eb/sw/PyTorch/2.1.2-foss-2023a-CUDA-12.1.1/bin:/sw/eb/sw/Z3/4.12.2-GCCcore-12.3.0/bin:/sw/eb/sw/sympy/1.12-gfbf-2023a/bin:/sw/eb/sw/poetry/1.5.1-GCCcore-12.3.0/bin:/sw/eb/sw/hatchling/1.18.0-GCCcore-12.3.0/bin:/sw/eb/sw/LibTIFF/4.5.0-GCCcore-12.3.0/bin:/sw/eb/sw/libdeflate/1.18-GCCcore-12.3.0/bin:/sw/eb/sw/zstd/1.5.5-GCCcore-12.3.0/bin:/sw/eb/sw/lz4/1.9.4-GCCcore-12.3.0/bin:/sw/eb/sw/gzip/1.12-GCCcore-12.3.0/bin:/sw/eb/sw/jbigkit/2.1-GCCcore-12.3.0/bin:/sw/eb/sw/libjpeg-turbo/2.1.5.1-GCCcore-12.3.0/bin:/sw/eb/sw/FFmpeg/6.0-GCCcore-12.3.0/bin:/sw/eb/sw/SDL2/2.28.2-GCCcore-12.3.0/bin:/sw/eb/sw/FriBidi/1.0.12-GCCcore-12.3.0/bin:/sw/eb/sw/X11/20230603-GCCcore-12.3.0/bin:/sw/eb/sw/fontconfig/2.14.2-GCCcore-12.3.0/bin:/sw/eb/sw/util-linux/2.39-GCCcore-12.3.0/sbin:/sw/eb/sw/util-linux/2.39-GCCcore-12.3.0/bin:/sw/eb/sw/freetype/2.13.0-GCCcore-12.3.0/bin:/sw/eb/sw/Brotli/1.0.9-GCCcore-12.3.0/bin:/sw/eb/sw/libpng/1.6.39-GCCcore-12.3.0/bin:/sw/eb/sw/expat/2.5.0-GCCcore-12.3.0/bin:/sw/eb/sw/x265/3.5-GCCcore-12.3.0/bin:/sw/eb/sw/LAME/3.100-GCCcore-12.3.0/bin:/sw/eb/sw/x264/20230226-GCCcore-12.3.0/bin:/sw/eb/sw/NASM/2.16.01-GCCcore-12.3.0/bin:/sw/eb/sw/SciPy-bundle/2023.07-gfbf-2023a/bin:/sw/eb/sw/pybind11/2.11.1-GCCcore-12.3.0/bin:/sw/eb/sw/protobuf/24.0-GCCcore-12.3.0/bin:/sw/eb/sw/Python-bundle-PyPI/2023.06-GCCcore-12.3.0/bin:/sw/eb/sw/virtualenv/20.23.1-GCCcore-12.3.0/bin:/sw/eb/sw/Python/3.11.3-GCCcore-12.3.0/bin:/sw/eb/sw/SQLite/3.42.0-GCCcore-12.3.0/bin:/sw/eb/sw/Tcl/8.6.13-GCCcore-12.3.0/bin:/sw/eb/sw/ncurses/6.4-GCCcore-12.3.0/bin:/sw/eb/sw/bzip2/1.0.8-GCCcore-12.3.0/bin:/sw/eb/sw/Ninja/1.11.1-GCCcore-12.3.0/bin:/sw/eb/sw/CUDA/12.1.1/nvvm/bin:/sw/eb/sw/CUDA/12.1.1/bin:/sw/eb/sw/FFTW/3.3.10-GCC-12.3.0/bin:/sw/eb/sw/FlexiBLAS/3.3.1-GCC-12.3.0/bin:/sw/eb/sw/OpenMPI/4.1.5-GCC-12.3.0/bin:/sw/eb/sw/UCC/1.2.0-GCCcore-12.3.0/bin:/sw/eb/sw/PMIx/4.2.4-GCCcore-12.3.0/bin:/sw/eb/sw/libfabric/1.18.0-GCCcore-12.3.0/bin:/sw/eb/sw/UCX/1.14.1-GCCcore-12.3.0/bin:/sw/eb/sw/libevent/2.1.12-GCCcore-12.3.0/bin:/sw/eb/sw/OpenSSL/1.1/bin:/sw/eb/sw/hwloc/2.9.1-GCCcore-12.3.0/sbin:/sw/eb/sw/hwloc/2.9.1-GCCcore-12.3.0/bin:/sw/eb/sw/libxml2/2.11.4-GCCcore-12.3.0/bin:/sw/eb/sw/XZ/5.4.2-GCCcore-12.3.0/bin:/sw/eb/sw/numactl/2.0.16-GCCcore-12.3.0/bin:/sw/eb/sw/binutils/2.40-GCCcore-12.3.0/bin:/sw/eb/sw/GCCcore/12.3.0/bin:/sw/local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/usr/lpp/mmfs/bin:/home/udayagirirahul7/.local/bin:/home/udayagirirahul7/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(venv_ecen766) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(venv_ecen766) '
+++ export VIRTUAL_ENV_PROMPT
+++ '[' -n /bin/bash -o -n '' ']'
+++ hash -r
++ unset PYTHONPATH
++ unset PYTHONHOME
++ export PYTHONNOUSERSITE=1
++ PYTHONNOUSERSITE=1
++ export HF_HOME=/scratch/user/udayagirirahul7/ECEN766_final/hf_home
++ HF_HOME=/scratch/user/udayagirirahul7/ECEN766_final/hf_home
++ mkdir -p logs
++ mkdir -p outputs/final_esm_large_10000
++ python code/train_fixed.py --feature_dir outputs/esm_large_10000 --feature_prefix esm --model svr --out_dir outputs/final_esm_large_10000/esm_svr --C 10 --epsilon 0.01 --gamma scale

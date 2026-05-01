@@ -1,0 +1,1212 @@
+Loaded 2000 UniProt IDs
+Scanned 10/2000 | reused=10 | fetched_new=0 | failed=0
+Scanned 20/2000 | reused=20 | fetched_new=0 | failed=0
+Scanned 30/2000 | reused=30 | fetched_new=0 | failed=0
+Scanned 40/2000 | reused=40 | fetched_new=0 | failed=0
+Scanned 50/2000 | reused=50 | fetched_new=0 | failed=0
+Scanned 60/2000 | reused=60 | fetched_new=0 | failed=0
+Scanned 70/2000 | reused=70 | fetched_new=0 | failed=0
+Scanned 80/2000 | reused=80 | fetched_new=0 | failed=0
+Scanned 90/2000 | reused=90 | fetched_new=0 | failed=0
+Scanned 100/2000 | reused=100 | fetched_new=0 | failed=0
+Scanned 110/2000 | reused=110 | fetched_new=0 | failed=0
+Scanned 120/2000 | reused=120 | fetched_new=0 | failed=0
+Scanned 130/2000 | reused=130 | fetched_new=0 | failed=0
+Scanned 140/2000 | reused=140 | fetched_new=0 | failed=0
+Scanned 150/2000 | reused=150 | fetched_new=0 | failed=0
+Scanned 160/2000 | reused=160 | fetched_new=0 | failed=0
+Scanned 170/2000 | reused=170 | fetched_new=0 | failed=0
+Scanned 180/2000 | reused=180 | fetched_new=0 | failed=0
+Scanned 190/2000 | reused=190 | fetched_new=0 | failed=0
+Scanned 200/2000 | reused=200 | fetched_new=0 | failed=0
+Scanned 210/2000 | reused=210 | fetched_new=0 | failed=0
+Scanned 220/2000 | reused=220 | fetched_new=0 | failed=0
+Scanned 230/2000 | reused=230 | fetched_new=0 | failed=0
+Scanned 240/2000 | reused=240 | fetched_new=0 | failed=0
+Scanned 250/2000 | reused=250 | fetched_new=0 | failed=0
+Scanned 260/2000 | reused=260 | fetched_new=0 | failed=0
+Scanned 270/2000 | reused=270 | fetched_new=0 | failed=0
+Scanned 280/2000 | reused=280 | fetched_new=0 | failed=0
+Scanned 290/2000 | reused=290 | fetched_new=0 | failed=0
+Scanned 300/2000 | reused=300 | fetched_new=0 | failed=0
+Scanned 310/2000 | reused=310 | fetched_new=0 | failed=0
+Scanned 320/2000 | reused=320 | fetched_new=0 | failed=0
+Scanned 330/2000 | reused=330 | fetched_new=0 | failed=0
+Scanned 340/2000 | reused=340 | fetched_new=0 | failed=0
+Scanned 350/2000 | reused=350 | fetched_new=0 | failed=0
+Scanned 360/2000 | reused=359 | fetched_new=0 | failed=1
+Scanned 370/2000 | reused=369 | fetched_new=0 | failed=1
+Scanned 380/2000 | reused=379 | fetched_new=0 | failed=1
+Scanned 390/2000 | reused=389 | fetched_new=0 | failed=1
+Scanned 400/2000 | reused=399 | fetched_new=0 | failed=1
+Scanned 410/2000 | reused=409 | fetched_new=0 | failed=1
+Scanned 420/2000 | reused=419 | fetched_new=0 | failed=1
+Scanned 430/2000 | reused=429 | fetched_new=0 | failed=1
+Scanned 440/2000 | reused=439 | fetched_new=0 | failed=1
+Scanned 450/2000 | reused=449 | fetched_new=0 | failed=1
+Scanned 460/2000 | reused=459 | fetched_new=0 | failed=1
+Scanned 470/2000 | reused=469 | fetched_new=0 | failed=1
+Scanned 480/2000 | reused=479 | fetched_new=0 | failed=1
+Scanned 490/2000 | reused=489 | fetched_new=0 | failed=1
+Scanned 500/2000 | reused=499 | fetched_new=0 | failed=1
+Scanned 510/2000 | reused=509 | fetched_new=0 | failed=1
+Scanned 520/2000 | reused=519 | fetched_new=0 | failed=1
+Scanned 530/2000 | reused=529 | fetched_new=0 | failed=1
+Scanned 540/2000 | reused=539 | fetched_new=0 | failed=1
+Scanned 550/2000 | reused=549 | fetched_new=0 | failed=1
+Scanned 560/2000 | reused=559 | fetched_new=0 | failed=1
+Scanned 570/2000 | reused=569 | fetched_new=0 | failed=1
+Scanned 580/2000 | reused=579 | fetched_new=0 | failed=1
+Scanned 590/2000 | reused=589 | fetched_new=0 | failed=1
+Scanned 600/2000 | reused=599 | fetched_new=0 | failed=1
+Scanned 610/2000 | reused=609 | fetched_new=0 | failed=1
+Scanned 620/2000 | reused=619 | fetched_new=0 | failed=1
+Scanned 630/2000 | reused=629 | fetched_new=0 | failed=1
+Scanned 640/2000 | reused=639 | fetched_new=0 | failed=1
+Scanned 650/2000 | reused=649 | fetched_new=0 | failed=1
+Scanned 660/2000 | reused=659 | fetched_new=0 | failed=1
+Scanned 670/2000 | reused=669 | fetched_new=0 | failed=1
+Scanned 680/2000 | reused=679 | fetched_new=0 | failed=1
+Scanned 690/2000 | reused=689 | fetched_new=0 | failed=1
+Scanned 700/2000 | reused=699 | fetched_new=0 | failed=1
+Scanned 710/2000 | reused=709 | fetched_new=0 | failed=1
+Scanned 720/2000 | reused=719 | fetched_new=0 | failed=1
+Scanned 730/2000 | reused=729 | fetched_new=0 | failed=1
+Scanned 740/2000 | reused=739 | fetched_new=0 | failed=1
+Scanned 750/2000 | reused=749 | fetched_new=0 | failed=1
+Scanned 760/2000 | reused=759 | fetched_new=0 | failed=1
+Scanned 770/2000 | reused=769 | fetched_new=0 | failed=1
+Scanned 780/2000 | reused=779 | fetched_new=0 | failed=1
+Scanned 790/2000 | reused=788 | fetched_new=0 | failed=2
+Scanned 800/2000 | reused=798 | fetched_new=0 | failed=2
+Scanned 810/2000 | reused=808 | fetched_new=0 | failed=2
+Scanned 820/2000 | reused=818 | fetched_new=0 | failed=2
+Scanned 830/2000 | reused=828 | fetched_new=0 | failed=2
+Scanned 840/2000 | reused=838 | fetched_new=0 | failed=2
+Scanned 850/2000 | reused=848 | fetched_new=0 | failed=2
+Scanned 860/2000 | reused=858 | fetched_new=0 | failed=2
+Scanned 870/2000 | reused=868 | fetched_new=0 | failed=2
+Scanned 880/2000 | reused=878 | fetched_new=0 | failed=2
+Scanned 890/2000 | reused=888 | fetched_new=0 | failed=2
+Scanned 900/2000 | reused=898 | fetched_new=0 | failed=2
+Scanned 910/2000 | reused=907 | fetched_new=0 | failed=3
+Scanned 920/2000 | reused=917 | fetched_new=0 | failed=3
+Scanned 930/2000 | reused=927 | fetched_new=0 | failed=3
+Scanned 940/2000 | reused=937 | fetched_new=0 | failed=3
+Scanned 950/2000 | reused=947 | fetched_new=0 | failed=3
+Scanned 960/2000 | reused=957 | fetched_new=0 | failed=3
+Scanned 970/2000 | reused=967 | fetched_new=0 | failed=3
+Scanned 980/2000 | reused=977 | fetched_new=0 | failed=3
+Scanned 990/2000 | reused=987 | fetched_new=0 | failed=3
+Scanned 1000/2000 | reused=997 | fetched_new=0 | failed=3
+Scanned 1010/2000 | reused=1007 | fetched_new=0 | failed=3
+Scanned 1020/2000 | reused=1017 | fetched_new=0 | failed=3
+Scanned 1030/2000 | reused=1027 | fetched_new=0 | failed=3
+Scanned 1040/2000 | reused=1037 | fetched_new=0 | failed=3
+Scanned 1050/2000 | reused=1047 | fetched_new=0 | failed=3
+Scanned 1060/2000 | reused=1057 | fetched_new=0 | failed=3
+Scanned 1070/2000 | reused=1067 | fetched_new=0 | failed=3
+Scanned 1080/2000 | reused=1077 | fetched_new=0 | failed=3
+Scanned 1090/2000 | reused=1087 | fetched_new=0 | failed=3
+Scanned 1100/2000 | reused=1097 | fetched_new=0 | failed=3
+Scanned 1110/2000 | reused=1107 | fetched_new=0 | failed=3
+Scanned 1120/2000 | reused=1117 | fetched_new=0 | failed=3
+Scanned 1130/2000 | reused=1127 | fetched_new=0 | failed=3
+Scanned 1140/2000 | reused=1137 | fetched_new=0 | failed=3
+Scanned 1150/2000 | reused=1147 | fetched_new=0 | failed=3
+Scanned 1160/2000 | reused=1156 | fetched_new=0 | failed=4
+Scanned 1170/2000 | reused=1166 | fetched_new=0 | failed=4
+Scanned 1180/2000 | reused=1176 | fetched_new=0 | failed=4
+Scanned 1190/2000 | reused=1186 | fetched_new=0 | failed=4
+Scanned 1200/2000 | reused=1196 | fetched_new=0 | failed=4
+Scanned 1210/2000 | reused=1206 | fetched_new=0 | failed=4
+Scanned 1220/2000 | reused=1216 | fetched_new=0 | failed=4
+Scanned 1230/2000 | reused=1226 | fetched_new=0 | failed=4
+Scanned 1240/2000 | reused=1236 | fetched_new=0 | failed=4
+Scanned 1250/2000 | reused=1246 | fetched_new=0 | failed=4
+Scanned 1260/2000 | reused=1256 | fetched_new=0 | failed=4
+Scanned 1270/2000 | reused=1266 | fetched_new=0 | failed=4
+Scanned 1280/2000 | reused=1276 | fetched_new=0 | failed=4
+Scanned 1290/2000 | reused=1286 | fetched_new=0 | failed=4
+Scanned 1300/2000 | reused=1296 | fetched_new=0 | failed=4
+Scanned 1310/2000 | reused=1306 | fetched_new=0 | failed=4
+Scanned 1320/2000 | reused=1316 | fetched_new=0 | failed=4
+Scanned 1330/2000 | reused=1326 | fetched_new=0 | failed=4
+Scanned 1340/2000 | reused=1336 | fetched_new=0 | failed=4
+Scanned 1350/2000 | reused=1346 | fetched_new=0 | failed=4
+Scanned 1360/2000 | reused=1356 | fetched_new=0 | failed=4
+Scanned 1370/2000 | reused=1366 | fetched_new=0 | failed=4
+Scanned 1380/2000 | reused=1376 | fetched_new=0 | failed=4
+Scanned 1390/2000 | reused=1386 | fetched_new=0 | failed=4
+Scanned 1400/2000 | reused=1396 | fetched_new=0 | failed=4
+Scanned 1410/2000 | reused=1406 | fetched_new=0 | failed=4
+Scanned 1420/2000 | reused=1416 | fetched_new=0 | failed=4
+Scanned 1430/2000 | reused=1426 | fetched_new=0 | failed=4
+Scanned 1440/2000 | reused=1436 | fetched_new=0 | failed=4
+Scanned 1450/2000 | reused=1446 | fetched_new=0 | failed=4
+Scanned 1460/2000 | reused=1455 | fetched_new=0 | failed=5
+Scanned 1470/2000 | reused=1465 | fetched_new=0 | failed=5
+Scanned 1480/2000 | reused=1474 | fetched_new=0 | failed=6
+Scanned 1490/2000 | reused=1484 | fetched_new=0 | failed=6
+Scanned 1500/2000 | reused=1494 | fetched_new=0 | failed=6
+Scanned 1510/2000 | reused=1504 | fetched_new=0 | failed=6
+Scanned 1520/2000 | reused=1514 | fetched_new=0 | failed=6
+Scanned 1530/2000 | reused=1524 | fetched_new=0 | failed=6
+Scanned 1540/2000 | reused=1534 | fetched_new=0 | failed=6
+Scanned 1550/2000 | reused=1544 | fetched_new=0 | failed=6
+Scanned 1560/2000 | reused=1554 | fetched_new=0 | failed=6
+Scanned 1570/2000 | reused=1564 | fetched_new=0 | failed=6
+Scanned 1580/2000 | reused=1574 | fetched_new=0 | failed=6
+Scanned 1590/2000 | reused=1584 | fetched_new=0 | failed=6
+Scanned 1600/2000 | reused=1593 | fetched_new=0 | failed=7
+Scanned 1610/2000 | reused=1603 | fetched_new=0 | failed=7
+Scanned 1620/2000 | reused=1613 | fetched_new=0 | failed=7
+Scanned 1630/2000 | reused=1623 | fetched_new=0 | failed=7
+Scanned 1640/2000 | reused=1632 | fetched_new=0 | failed=8
+Scanned 1650/2000 | reused=1641 | fetched_new=0 | failed=9
+Scanned 1660/2000 | reused=1651 | fetched_new=0 | failed=9
+Scanned 1670/2000 | reused=1661 | fetched_new=0 | failed=9
+Scanned 1680/2000 | reused=1671 | fetched_new=0 | failed=9
+Scanned 1690/2000 | reused=1681 | fetched_new=0 | failed=9
+Scanned 1700/2000 | reused=1691 | fetched_new=0 | failed=9
+Scanned 1710/2000 | reused=1700 | fetched_new=0 | failed=10
+Scanned 1720/2000 | reused=1710 | fetched_new=0 | failed=10
+Scanned 1730/2000 | reused=1720 | fetched_new=0 | failed=10
+Scanned 1740/2000 | reused=1730 | fetched_new=0 | failed=10
+Scanned 1750/2000 | reused=1740 | fetched_new=0 | failed=10
+Scanned 1760/2000 | reused=1749 | fetched_new=0 | failed=11
+Scanned 1770/2000 | reused=1759 | fetched_new=0 | failed=11
+Scanned 1780/2000 | reused=1769 | fetched_new=0 | failed=11
+Scanned 1790/2000 | reused=1779 | fetched_new=0 | failed=11
+Scanned 1800/2000 | reused=1789 | fetched_new=0 | failed=11
+Scanned 1810/2000 | reused=1799 | fetched_new=0 | failed=11
+Scanned 1820/2000 | reused=1809 | fetched_new=0 | failed=11
+Scanned 1830/2000 | reused=1819 | fetched_new=0 | failed=11
+Scanned 1840/2000 | reused=1829 | fetched_new=0 | failed=11
+Scanned 1850/2000 | reused=1839 | fetched_new=0 | failed=11
+Scanned 1860/2000 | reused=1848 | fetched_new=0 | failed=12
+Scanned 1870/2000 | reused=1858 | fetched_new=0 | failed=12
+Scanned 1880/2000 | reused=1868 | fetched_new=0 | failed=12
+Scanned 1890/2000 | reused=1878 | fetched_new=0 | failed=12
+Scanned 1900/2000 | reused=1888 | fetched_new=0 | failed=12
+Scanned 1910/2000 | reused=1898 | fetched_new=0 | failed=12
+Scanned 1920/2000 | reused=1908 | fetched_new=0 | failed=12
+Scanned 1930/2000 | reused=1918 | fetched_new=0 | failed=12
+Scanned 1940/2000 | reused=1928 | fetched_new=0 | failed=12
+Scanned 1950/2000 | reused=1938 | fetched_new=0 | failed=12
+Scanned 1960/2000 | reused=1947 | fetched_new=0 | failed=13
+Scanned 1970/2000 | reused=1957 | fetched_new=0 | failed=13
+Scanned 1980/2000 | reused=1967 | fetched_new=0 | failed=13
+Scanned 1990/2000 | reused=1977 | fetched_new=0 | failed=13
+Scanned 2000/2000 | reused=1987 | fetched_new=0 | failed=13
+Cache ready | reused=1987 | fetched_new=0 | failed=13
+Usable proteins: 1987
+Split sizes | train=1390 val=298 test=299
+Using device for ESM: cpu
+Embedded 2/1390
+Embedded 4/1390
+Embedded 6/1390
+Embedded 8/1390
+Embedded 10/1390
+Embedded 12/1390
+Embedded 14/1390
+Embedded 16/1390
+Embedded 18/1390
+Embedded 20/1390
+Embedded 22/1390
+Embedded 24/1390
+Embedded 26/1390
+Embedded 28/1390
+Embedded 30/1390
+Embedded 32/1390
+Embedded 34/1390
+Embedded 36/1390
+Embedded 38/1390
+Embedded 40/1390
+Embedded 42/1390
+Embedded 44/1390
+Embedded 46/1390
+Embedded 48/1390
+Embedded 50/1390
+Embedded 52/1390
+Embedded 54/1390
+Embedded 56/1390
+Embedded 58/1390
+Embedded 60/1390
+Embedded 62/1390
+Embedded 64/1390
+Embedded 66/1390
+Embedded 68/1390
+Embedded 70/1390
+Embedded 72/1390
+Embedded 74/1390
+Embedded 76/1390
+Embedded 78/1390
+Embedded 80/1390
+Embedded 82/1390
+Embedded 84/1390
+Embedded 86/1390
+Embedded 88/1390
+Embedded 90/1390
+Embedded 92/1390
+Embedded 94/1390
+Embedded 96/1390
+Embedded 98/1390
+Embedded 100/1390
+Embedded 102/1390
+Embedded 104/1390
+Embedded 106/1390
+Embedded 108/1390
+Embedded 110/1390
+Embedded 112/1390
+Embedded 114/1390
+Embedded 116/1390
+Embedded 118/1390
+Embedded 120/1390
+Embedded 122/1390
+Embedded 124/1390
+Embedded 126/1390
+Embedded 128/1390
+Embedded 130/1390
+Embedded 132/1390
+Embedded 134/1390
+Embedded 136/1390
+Embedded 138/1390
+Embedded 140/1390
+Embedded 142/1390
+Embedded 144/1390
+Embedded 146/1390
+Embedded 148/1390
+Embedded 150/1390
+Embedded 152/1390
+Embedded 154/1390
+Embedded 156/1390
+Embedded 158/1390
+Embedded 160/1390
+Embedded 162/1390
+Embedded 164/1390
+Embedded 166/1390
+Embedded 168/1390
+Embedded 170/1390
+Embedded 172/1390
+Embedded 174/1390
+Embedded 176/1390
+Embedded 178/1390
+Embedded 180/1390
+Embedded 182/1390
+Embedded 184/1390
+Embedded 186/1390
+Embedded 188/1390
+Embedded 190/1390
+Embedded 192/1390
+Embedded 194/1390
+Embedded 196/1390
+Embedded 198/1390
+Embedded 200/1390
+Embedded 202/1390
+Embedded 204/1390
+Embedded 206/1390
+Embedded 208/1390
+Embedded 210/1390
+Embedded 212/1390
+Embedded 214/1390
+Embedded 216/1390
+Embedded 218/1390
+Embedded 220/1390
+Embedded 222/1390
+Embedded 224/1390
+Embedded 226/1390
+Embedded 228/1390
+Embedded 230/1390
+Embedded 232/1390
+Embedded 234/1390
+Embedded 236/1390
+Embedded 238/1390
+Embedded 240/1390
+Embedded 242/1390
+Embedded 244/1390
+Embedded 246/1390
+Embedded 248/1390
+Embedded 250/1390
+Embedded 252/1390
+Embedded 254/1390
+Embedded 256/1390
+Embedded 258/1390
+Embedded 260/1390
+Embedded 262/1390
+Embedded 264/1390
+Embedded 266/1390
+Embedded 268/1390
+Embedded 270/1390
+Embedded 272/1390
+Embedded 274/1390
+Embedded 276/1390
+Embedded 278/1390
+Embedded 280/1390
+Embedded 282/1390
+Embedded 284/1390
+Embedded 286/1390
+Embedded 288/1390
+Embedded 290/1390
+Embedded 292/1390
+Embedded 294/1390
+Embedded 296/1390
+Embedded 298/1390
+Embedded 300/1390
+Embedded 302/1390
+Embedded 304/1390
+Embedded 306/1390
+Embedded 308/1390
+Embedded 310/1390
+Embedded 312/1390
+Embedded 314/1390
+Embedded 316/1390
+Embedded 318/1390
+Embedded 320/1390
+Embedded 322/1390
+Embedded 324/1390
+Embedded 326/1390
+Embedded 328/1390
+Embedded 330/1390
+Embedded 332/1390
+Embedded 334/1390
+Embedded 336/1390
+Embedded 338/1390
+Embedded 340/1390
+Embedded 342/1390
+Embedded 344/1390
+Embedded 346/1390
+Embedded 348/1390
+Embedded 350/1390
+Embedded 352/1390
+Embedded 354/1390
+Embedded 356/1390
+Embedded 358/1390
+Embedded 360/1390
+Embedded 362/1390
+Embedded 364/1390
+Embedded 366/1390
+Embedded 368/1390
+Embedded 370/1390
+Embedded 372/1390
+Embedded 374/1390
+Embedded 376/1390
+Embedded 378/1390
+Embedded 380/1390
+Embedded 382/1390
+Embedded 384/1390
+Embedded 386/1390
+Embedded 388/1390
+Embedded 390/1390
+Embedded 392/1390
+Embedded 394/1390
+Embedded 396/1390
+Embedded 398/1390
+Embedded 400/1390
+Embedded 402/1390
+Embedded 404/1390
+Embedded 406/1390
+Embedded 408/1390
+Embedded 410/1390
+Embedded 412/1390
+Embedded 414/1390
+Embedded 416/1390
+Embedded 418/1390
+Embedded 420/1390
+Embedded 422/1390
+Embedded 424/1390
+Embedded 426/1390
+Embedded 428/1390
+Embedded 430/1390
+Embedded 432/1390
+Embedded 434/1390
+Embedded 436/1390
+Embedded 438/1390
+Embedded 440/1390
+Embedded 442/1390
+Embedded 444/1390
+Embedded 446/1390
+Embedded 448/1390
+Embedded 450/1390
+Embedded 452/1390
+Embedded 454/1390
+Embedded 456/1390
+Embedded 458/1390
+Embedded 460/1390
+Embedded 462/1390
+Embedded 464/1390
+Embedded 466/1390
+Embedded 468/1390
+Embedded 470/1390
+Embedded 472/1390
+Embedded 474/1390
+Embedded 476/1390
+Embedded 478/1390
+Embedded 480/1390
+Embedded 482/1390
+Embedded 484/1390
+Embedded 486/1390
+Embedded 488/1390
+Embedded 490/1390
+Embedded 492/1390
+Embedded 494/1390
+Embedded 496/1390
+Embedded 498/1390
+Embedded 500/1390
+Embedded 502/1390
+Embedded 504/1390
+Embedded 506/1390
+Embedded 508/1390
+Embedded 510/1390
+Embedded 512/1390
+Embedded 514/1390
+Embedded 516/1390
+Embedded 518/1390
+Embedded 520/1390
+Embedded 522/1390
+Embedded 524/1390
+Embedded 526/1390
+Embedded 528/1390
+Embedded 530/1390
+Embedded 532/1390
+Embedded 534/1390
+Embedded 536/1390
+Embedded 538/1390
+Embedded 540/1390
+Embedded 542/1390
+Embedded 544/1390
+Embedded 546/1390
+Embedded 548/1390
+Embedded 550/1390
+Embedded 552/1390
+Embedded 554/1390
+Embedded 556/1390
+Embedded 558/1390
+Embedded 560/1390
+Embedded 562/1390
+Embedded 564/1390
+Embedded 566/1390
+Embedded 568/1390
+Embedded 570/1390
+Embedded 572/1390
+Embedded 574/1390
+Embedded 576/1390
+Embedded 578/1390
+Embedded 580/1390
+Embedded 582/1390
+Embedded 584/1390
+Embedded 586/1390
+Embedded 588/1390
+Embedded 590/1390
+Embedded 592/1390
+Embedded 594/1390
+Embedded 596/1390
+Embedded 598/1390
+Embedded 600/1390
+Embedded 602/1390
+Embedded 604/1390
+Embedded 606/1390
+Embedded 608/1390
+Embedded 610/1390
+Embedded 612/1390
+Embedded 614/1390
+Embedded 616/1390
+Embedded 618/1390
+Embedded 620/1390
+Embedded 622/1390
+Embedded 624/1390
+Embedded 626/1390
+Embedded 628/1390
+Embedded 630/1390
+Embedded 632/1390
+Embedded 634/1390
+Embedded 636/1390
+Embedded 638/1390
+Embedded 640/1390
+Embedded 642/1390
+Embedded 644/1390
+Embedded 646/1390
+Embedded 648/1390
+Embedded 650/1390
+Embedded 652/1390
+Embedded 654/1390
+Embedded 656/1390
+Embedded 658/1390
+Embedded 660/1390
+Embedded 662/1390
+Embedded 664/1390
+Embedded 666/1390
+Embedded 668/1390
+Embedded 670/1390
+Embedded 672/1390
+Embedded 674/1390
+Embedded 676/1390
+Embedded 678/1390
+Embedded 680/1390
+Embedded 682/1390
+Embedded 684/1390
+Embedded 686/1390
+Embedded 688/1390
+Embedded 690/1390
+Embedded 692/1390
+Embedded 694/1390
+Embedded 696/1390
+Embedded 698/1390
+Embedded 700/1390
+Embedded 702/1390
+Embedded 704/1390
+Embedded 706/1390
+Embedded 708/1390
+Embedded 710/1390
+Embedded 712/1390
+Embedded 714/1390
+Embedded 716/1390
+Embedded 718/1390
+Embedded 720/1390
+Embedded 722/1390
+Embedded 724/1390
+Embedded 726/1390
+Embedded 728/1390
+Embedded 730/1390
+Embedded 732/1390
+Embedded 734/1390
+Embedded 736/1390
+Embedded 738/1390
+Embedded 740/1390
+Embedded 742/1390
+Embedded 744/1390
+Embedded 746/1390
+Embedded 748/1390
+Embedded 750/1390
+Embedded 752/1390
+Embedded 754/1390
+Embedded 756/1390
+Embedded 758/1390
+Embedded 760/1390
+Embedded 762/1390
+Embedded 764/1390
+Embedded 766/1390
+Embedded 768/1390
+Embedded 770/1390
+Embedded 772/1390
+Embedded 774/1390
+Embedded 776/1390
+Embedded 778/1390
+Embedded 780/1390
+Embedded 782/1390
+Embedded 784/1390
+Embedded 786/1390
+Embedded 788/1390
+Embedded 790/1390
+Embedded 792/1390
+Embedded 794/1390
+Embedded 796/1390
+Embedded 798/1390
+Embedded 800/1390
+Embedded 802/1390
+Embedded 804/1390
+Embedded 806/1390
+Embedded 808/1390
+Embedded 810/1390
+Embedded 812/1390
+Embedded 814/1390
+Embedded 816/1390
+Embedded 818/1390
+Embedded 820/1390
+Embedded 822/1390
+Embedded 824/1390
+Embedded 826/1390
+Embedded 828/1390
+Embedded 830/1390
+Embedded 832/1390
+Embedded 834/1390
+Embedded 836/1390
+Embedded 838/1390
+Embedded 840/1390
+Embedded 842/1390
+Embedded 844/1390
+Embedded 846/1390
+Embedded 848/1390
+Embedded 850/1390
+Embedded 852/1390
+Embedded 854/1390
+Embedded 856/1390
+Embedded 858/1390
+Embedded 860/1390
+Embedded 862/1390
+Embedded 864/1390
+Embedded 866/1390
+Embedded 868/1390
+Embedded 870/1390
+Embedded 872/1390
+Embedded 874/1390
+Embedded 876/1390
+Embedded 878/1390
+Embedded 880/1390
+Embedded 882/1390
+Embedded 884/1390
+Embedded 886/1390
+Embedded 888/1390
+Embedded 890/1390
+Embedded 892/1390
+Embedded 894/1390
+Embedded 896/1390
+Embedded 898/1390
+Embedded 900/1390
+Embedded 902/1390
+Embedded 904/1390
+Embedded 906/1390
+Embedded 908/1390
+Embedded 910/1390
+Embedded 912/1390
+Embedded 914/1390
+Embedded 916/1390
+Embedded 918/1390
+Embedded 920/1390
+Embedded 922/1390
+Embedded 924/1390
+Embedded 926/1390
+Embedded 928/1390
+Embedded 930/1390
+Embedded 932/1390
+Embedded 934/1390
+Embedded 936/1390
+Embedded 938/1390
+Embedded 940/1390
+Embedded 942/1390
+Embedded 944/1390
+Embedded 946/1390
+Embedded 948/1390
+Embedded 950/1390
+Embedded 952/1390
+Embedded 954/1390
+Embedded 956/1390
+Embedded 958/1390
+Embedded 960/1390
+Embedded 962/1390
+Embedded 964/1390
+Embedded 966/1390
+Embedded 968/1390
+Embedded 970/1390
+Embedded 972/1390
+Embedded 974/1390
+Embedded 976/1390
+Embedded 978/1390
+Embedded 980/1390
+Embedded 982/1390
+Embedded 984/1390
+Embedded 986/1390
+Embedded 988/1390
+Embedded 990/1390
+Embedded 992/1390
+Embedded 994/1390
+Embedded 996/1390
+Embedded 998/1390
+Embedded 1000/1390
+Embedded 1002/1390
+Embedded 1004/1390
+Embedded 1006/1390
+Embedded 1008/1390
+Embedded 1010/1390
+Embedded 1012/1390
+Embedded 1014/1390
+Embedded 1016/1390
+Embedded 1018/1390
+Embedded 1020/1390
+Embedded 1022/1390
+Embedded 1024/1390
+Embedded 1026/1390
+Embedded 1028/1390
+Embedded 1030/1390
+Embedded 1032/1390
+Embedded 1034/1390
+Embedded 1036/1390
+Embedded 1038/1390
+Embedded 1040/1390
+Embedded 1042/1390
+Embedded 1044/1390
+Embedded 1046/1390
+Embedded 1048/1390
+Embedded 1050/1390
+Embedded 1052/1390
+Embedded 1054/1390
+Embedded 1056/1390
+Embedded 1058/1390
+Embedded 1060/1390
+Embedded 1062/1390
+Embedded 1064/1390
+Embedded 1066/1390
+Embedded 1068/1390
+Embedded 1070/1390
+Embedded 1072/1390
+Embedded 1074/1390
+Embedded 1076/1390
+Embedded 1078/1390
+Embedded 1080/1390
+Embedded 1082/1390
+Embedded 1084/1390
+Embedded 1086/1390
+Embedded 1088/1390
+Embedded 1090/1390
+Embedded 1092/1390
+Embedded 1094/1390
+Embedded 1096/1390
+Embedded 1098/1390
+Embedded 1100/1390
+Embedded 1102/1390
+Embedded 1104/1390
+Embedded 1106/1390
+Embedded 1108/1390
+Embedded 1110/1390
+Embedded 1112/1390
+Embedded 1114/1390
+Embedded 1116/1390
+Embedded 1118/1390
+Embedded 1120/1390
+Embedded 1122/1390
+Embedded 1124/1390
+Embedded 1126/1390
+Embedded 1128/1390
+Embedded 1130/1390
+Embedded 1132/1390
+Embedded 1134/1390
+Embedded 1136/1390
+Embedded 1138/1390
+Embedded 1140/1390
+Embedded 1142/1390
+Embedded 1144/1390
+Embedded 1146/1390
+Embedded 1148/1390
+Embedded 1150/1390
+Embedded 1152/1390
+Embedded 1154/1390
+Embedded 1156/1390
+Embedded 1158/1390
+Embedded 1160/1390
+Embedded 1162/1390
+Embedded 1164/1390
+Embedded 1166/1390
+Embedded 1168/1390
+Embedded 1170/1390
+Embedded 1172/1390
+Embedded 1174/1390
+Embedded 1176/1390
+Embedded 1178/1390
+Embedded 1180/1390
+Embedded 1182/1390
+Embedded 1184/1390
+Embedded 1186/1390
+Embedded 1188/1390
+Embedded 1190/1390
+Embedded 1192/1390
+Embedded 1194/1390
+Embedded 1196/1390
+Embedded 1198/1390
+Embedded 1200/1390
+Embedded 1202/1390
+Embedded 1204/1390
+Embedded 1206/1390
+Embedded 1208/1390
+Embedded 1210/1390
+Embedded 1212/1390
+Embedded 1214/1390
+Embedded 1216/1390
+Embedded 1218/1390
+Embedded 1220/1390
+Embedded 1222/1390
+Embedded 1224/1390
+Embedded 1226/1390
+Embedded 1228/1390
+Embedded 1230/1390
+Embedded 1232/1390
+Embedded 1234/1390
+Embedded 1236/1390
+Embedded 1238/1390
+Embedded 1240/1390
+Embedded 1242/1390
+Embedded 1244/1390
+Embedded 1246/1390
+Embedded 1248/1390
+Embedded 1250/1390
+Embedded 1252/1390
+Embedded 1254/1390
+Embedded 1256/1390
+Embedded 1258/1390
+Embedded 1260/1390
+Embedded 1262/1390
+Embedded 1264/1390
+Embedded 1266/1390
+Embedded 1268/1390
+Embedded 1270/1390
+Embedded 1272/1390
+Embedded 1274/1390
+Embedded 1276/1390
+Embedded 1278/1390
+Embedded 1280/1390
+Embedded 1282/1390
+Embedded 1284/1390
+Embedded 1286/1390
+Embedded 1288/1390
+Embedded 1290/1390
+Embedded 1292/1390
+Embedded 1294/1390
+Embedded 1296/1390
+Embedded 1298/1390
+Embedded 1300/1390
+Embedded 1302/1390
+Embedded 1304/1390
+Embedded 1306/1390
+Embedded 1308/1390
+Embedded 1310/1390
+Embedded 1312/1390
+Embedded 1314/1390
+Embedded 1316/1390
+Embedded 1318/1390
+Embedded 1320/1390
+Embedded 1322/1390
+Embedded 1324/1390
+Embedded 1326/1390
+Embedded 1328/1390
+Embedded 1330/1390
+Embedded 1332/1390
+Embedded 1334/1390
+Embedded 1336/1390
+Embedded 1338/1390
+Embedded 1340/1390
+Embedded 1342/1390
+Embedded 1344/1390
+Embedded 1346/1390
+Embedded 1348/1390
+Embedded 1350/1390
+Embedded 1352/1390
+Embedded 1354/1390
+Embedded 1356/1390
+Embedded 1358/1390
+Embedded 1360/1390
+Embedded 1362/1390
+Embedded 1364/1390
+Embedded 1366/1390
+Embedded 1368/1390
+Embedded 1370/1390
+Embedded 1372/1390
+Embedded 1374/1390
+Embedded 1376/1390
+Embedded 1378/1390
+Embedded 1380/1390
+Embedded 1382/1390
+Embedded 1384/1390
+Embedded 1386/1390
+Embedded 1388/1390
+Embedded 1390/1390
+Embedded 2/298
+Embedded 4/298
+Embedded 6/298
+Embedded 8/298
+Embedded 10/298
+Embedded 12/298
+Embedded 14/298
+Embedded 16/298
+Embedded 18/298
+Embedded 20/298
+Embedded 22/298
+Embedded 24/298
+Embedded 26/298
+Embedded 28/298
+Embedded 30/298
+Embedded 32/298
+Embedded 34/298
+Embedded 36/298
+Embedded 38/298
+Embedded 40/298
+Embedded 42/298
+Embedded 44/298
+Embedded 46/298
+Embedded 48/298
+Embedded 50/298
+Embedded 52/298
+Embedded 54/298
+Embedded 56/298
+Embedded 58/298
+Embedded 60/298
+Embedded 62/298
+Embedded 64/298
+Embedded 66/298
+Embedded 68/298
+Embedded 70/298
+Embedded 72/298
+Embedded 74/298
+Embedded 76/298
+Embedded 78/298
+Embedded 80/298
+Embedded 82/298
+Embedded 84/298
+Embedded 86/298
+Embedded 88/298
+Embedded 90/298
+Embedded 92/298
+Embedded 94/298
+Embedded 96/298
+Embedded 98/298
+Embedded 100/298
+Embedded 102/298
+Embedded 104/298
+Embedded 106/298
+Embedded 108/298
+Embedded 110/298
+Embedded 112/298
+Embedded 114/298
+Embedded 116/298
+Embedded 118/298
+Embedded 120/298
+Embedded 122/298
+Embedded 124/298
+Embedded 126/298
+Embedded 128/298
+Embedded 130/298
+Embedded 132/298
+Embedded 134/298
+Embedded 136/298
+Embedded 138/298
+Embedded 140/298
+Embedded 142/298
+Embedded 144/298
+Embedded 146/298
+Embedded 148/298
+Embedded 150/298
+Embedded 152/298
+Embedded 154/298
+Embedded 156/298
+Embedded 158/298
+Embedded 160/298
+Embedded 162/298
+Embedded 164/298
+Embedded 166/298
+Embedded 168/298
+Embedded 170/298
+Embedded 172/298
+Embedded 174/298
+Embedded 176/298
+Embedded 178/298
+Embedded 180/298
+Embedded 182/298
+Embedded 184/298
+Embedded 186/298
+Embedded 188/298
+Embedded 190/298
+Embedded 192/298
+Embedded 194/298
+Embedded 196/298
+Embedded 198/298
+Embedded 200/298
+Embedded 202/298
+Embedded 204/298
+Embedded 206/298
+Embedded 208/298
+Embedded 210/298
+Embedded 212/298
+Embedded 214/298
+Embedded 216/298
+Embedded 218/298
+Embedded 220/298
+Embedded 222/298
+Embedded 224/298
+Embedded 226/298
+Embedded 228/298
+Embedded 230/298
+Embedded 232/298
+Embedded 234/298
+Embedded 236/298
+Embedded 238/298
+Embedded 240/298
+Embedded 242/298
+Embedded 244/298
+Embedded 246/298
+Embedded 248/298
+Embedded 250/298
+Embedded 252/298
+Embedded 254/298
+Embedded 256/298
+Embedded 258/298
+Embedded 260/298
+Embedded 262/298
+Embedded 264/298
+Embedded 266/298
+Embedded 268/298
+Embedded 270/298
+Embedded 272/298
+Embedded 274/298
+Embedded 276/298
+Embedded 278/298
+Embedded 280/298
+Embedded 282/298
+Embedded 284/298
+Embedded 286/298
+Embedded 288/298
+Embedded 290/298
+Embedded 292/298
+Embedded 294/298
+Embedded 296/298
+Embedded 298/298
+Embedded 2/299
+Embedded 4/299
+Embedded 6/299
+Embedded 8/299
+Embedded 10/299
+Embedded 12/299
+Embedded 14/299
+Embedded 16/299
+Embedded 18/299
+Embedded 20/299
+Embedded 22/299
+Embedded 24/299
+Embedded 26/299
+Embedded 28/299
+Embedded 30/299
+Embedded 32/299
+Embedded 34/299
+Embedded 36/299
+Embedded 38/299
+Embedded 40/299
+Embedded 42/299
+Embedded 44/299
+Embedded 46/299
+Embedded 48/299
+Embedded 50/299
+Embedded 52/299
+Embedded 54/299
+Embedded 56/299
+Embedded 58/299
+Embedded 60/299
+Embedded 62/299
+Embedded 64/299
+Embedded 66/299
+Embedded 68/299
+Embedded 70/299
+Embedded 72/299
+Embedded 74/299
+Embedded 76/299
+Embedded 78/299
+Embedded 80/299
+Embedded 82/299
+Embedded 84/299
+Embedded 86/299
+Embedded 88/299
+Embedded 90/299
+Embedded 92/299
+Embedded 94/299
+Embedded 96/299
+Embedded 98/299
+Embedded 100/299
+Embedded 102/299
+Embedded 104/299
+Embedded 106/299
+Embedded 108/299
+Embedded 110/299
+Embedded 112/299
+Embedded 114/299
+Embedded 116/299
+Embedded 118/299
+Embedded 120/299
+Embedded 122/299
+Embedded 124/299
+Embedded 126/299
+Embedded 128/299
+Embedded 130/299
+Embedded 132/299
+Embedded 134/299
+Embedded 136/299
+Embedded 138/299
+Embedded 140/299
+Embedded 142/299
+Embedded 144/299
+Embedded 146/299
+Embedded 148/299
+Embedded 150/299
+Embedded 152/299
+Embedded 154/299
+Embedded 156/299
+Embedded 158/299
+Embedded 160/299
+Embedded 162/299
+Embedded 164/299
+Embedded 166/299
+Embedded 168/299
+Embedded 170/299
+Embedded 172/299
+Embedded 174/299
+Embedded 176/299
+Embedded 178/299
+Embedded 180/299
+Embedded 182/299
+Embedded 184/299
+Embedded 186/299
+Embedded 188/299
+Embedded 190/299
+Embedded 192/299
+Embedded 194/299
+Embedded 196/299
+Embedded 198/299
+Embedded 200/299
+Embedded 202/299
+Embedded 204/299
+Embedded 206/299
+Embedded 208/299
+Embedded 210/299
+Embedded 212/299
+Embedded 214/299
+Embedded 216/299
+Embedded 218/299
+Embedded 220/299
+Embedded 222/299
+Embedded 224/299
+Embedded 226/299
+Embedded 228/299
+Embedded 230/299
+Embedded 232/299
+Embedded 234/299
+Embedded 236/299
+Embedded 238/299
+Embedded 240/299
+Embedded 242/299
+Embedded 244/299
+Embedded 246/299
+Embedded 248/299
+Embedded 250/299
+Embedded 252/299
+Embedded 254/299
+Embedded 256/299
+Embedded 258/299
+Embedded 260/299
+Embedded 262/299
+Embedded 264/299
+Embedded 266/299
+Embedded 268/299
+Embedded 270/299
+Embedded 272/299
+Embedded 274/299
+Embedded 276/299
+Embedded 278/299
+Embedded 280/299
+Embedded 282/299
+Embedded 284/299
+Embedded 286/299
+Embedded 288/299
+Embedded 290/299
+Embedded 292/299
+Embedded 294/299
+Embedded 296/299
+Embedded 298/299
+Embedded 299/299
+DONE
+{
+  "n_total": 1987,
+  "n_train": 1390,
+  "n_val": 298,
+  "n_test": 299,
+  "basic_dim": 29,
+  "esm_model": "facebook/esm2_t33_650M_UR50D",
+  "esm_dim": 1280,
+  "skip_embeddings": false,
+  "cache_file": "cache/data2000/afdb_cache.json",
+  "fail_log_file": "cache/data2000/afdb_fail_log.json"
+}

@@ -1,0 +1,77 @@
+DONE
+{
+  "feature_prefix": "esm",
+  "model": "ridge",
+  "seed": 42,
+  "input_dim": 320,
+  "params": {
+    "alpha": 100.0
+  },
+  "val_metrics": {
+    "pearson": 0.9389623403549194,
+    "spearman": 0.9310930597370254,
+    "mae": 3.265901565551758,
+    "rmse": 4.475219098913076,
+    "r2": 0.8814923763275146
+  },
+  "test_metrics": {
+    "pearson": 0.9305510520935059,
+    "spearman": 0.9187707287159365,
+    "mae": 3.504997491836548,
+    "rmse": 4.735444102422493,
+    "r2": 0.8658409118652344
+  }
+}
+DONE
+{
+  "feature_prefix": "esm",
+  "model": "svr",
+  "seed": 42,
+  "input_dim": 320,
+  "params": {
+    "C": 10.0,
+    "epsilon": 0.01,
+    "gamma": "scale"
+  },
+  "val_metrics": {
+    "pearson": 0.9468703314202516,
+    "spearman": 0.9455956450286881,
+    "mae": 2.9383564093958072,
+    "rmse": 4.196166438892344,
+    "r2": 0.8958106927203665
+  },
+  "test_metrics": {
+    "pearson": 0.9371671329343741,
+    "spearman": 0.93408565735373,
+    "mae": 3.1728807716429435,
+    "rmse": 4.53684164261248,
+    "r2": 0.8768581152463902
+  }
+}
+DONE
+{
+  "feature_prefix": "basic",
+  "model": "rf",
+  "seed": 42,
+  "input_dim": 29,
+  "params": {
+    "n_estimators": 500,
+    "max_depth": null,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1
+  },
+  "val_metrics": {
+    "pearson": 0.8477524200847466,
+    "spearman": 0.8195436595628364,
+    "mae": 5.300677249192508,
+    "rmse": 6.924141119636281,
+    "r2": 0.7163063860239673
+  },
+  "test_metrics": {
+    "pearson": 0.8528398470824344,
+    "spearman": 0.8290941467822469,
+    "mae": 5.247280219847281,
+    "rmse": 6.788045944512917,
+    "r2": 0.7243308916285836
+  }
+}

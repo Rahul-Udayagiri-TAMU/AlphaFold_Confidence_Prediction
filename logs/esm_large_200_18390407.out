@@ -1,0 +1,89 @@
+Loaded 200 UniProt IDs
+Scanned 10/200 | reused=10 | fetched_new=0 | failed=0
+Scanned 20/200 | reused=20 | fetched_new=0 | failed=0
+Scanned 30/200 | reused=30 | fetched_new=0 | failed=0
+Scanned 40/200 | reused=40 | fetched_new=0 | failed=0
+Scanned 50/200 | reused=50 | fetched_new=0 | failed=0
+Scanned 60/200 | reused=60 | fetched_new=0 | failed=0
+Scanned 70/200 | reused=70 | fetched_new=0 | failed=0
+Scanned 80/200 | reused=80 | fetched_new=0 | failed=0
+Scanned 90/200 | reused=90 | fetched_new=0 | failed=0
+Scanned 100/200 | reused=100 | fetched_new=0 | failed=0
+Scanned 110/200 | reused=110 | fetched_new=0 | failed=0
+Scanned 120/200 | reused=120 | fetched_new=0 | failed=0
+Scanned 130/200 | reused=130 | fetched_new=0 | failed=0
+Scanned 140/200 | reused=140 | fetched_new=0 | failed=0
+Scanned 150/200 | reused=150 | fetched_new=0 | failed=0
+Scanned 160/200 | reused=160 | fetched_new=0 | failed=0
+Scanned 170/200 | reused=170 | fetched_new=0 | failed=0
+Scanned 180/200 | reused=180 | fetched_new=0 | failed=0
+Scanned 190/200 | reused=190 | fetched_new=0 | failed=0
+Scanned 200/200 | reused=200 | fetched_new=0 | failed=0
+Cache ready | reused=200 | fetched_new=0 | failed=0
+Usable proteins: 200
+Split sizes | train=140 val=30 test=30
+Using device for ESM: cpu
+Embedded 4/140
+Embedded 8/140
+Embedded 12/140
+Embedded 16/140
+Embedded 20/140
+Embedded 24/140
+Embedded 28/140
+Embedded 32/140
+Embedded 36/140
+Embedded 40/140
+Embedded 44/140
+Embedded 48/140
+Embedded 52/140
+Embedded 56/140
+Embedded 60/140
+Embedded 64/140
+Embedded 68/140
+Embedded 72/140
+Embedded 76/140
+Embedded 80/140
+Embedded 84/140
+Embedded 88/140
+Embedded 92/140
+Embedded 96/140
+Embedded 100/140
+Embedded 104/140
+Embedded 108/140
+Embedded 112/140
+Embedded 116/140
+Embedded 120/140
+Embedded 124/140
+Embedded 128/140
+Embedded 132/140
+Embedded 136/140
+Embedded 140/140
+Embedded 4/30
+Embedded 8/30
+Embedded 12/30
+Embedded 16/30
+Embedded 20/30
+Embedded 24/30
+Embedded 28/30
+Embedded 30/30
+Embedded 4/30
+Embedded 8/30
+Embedded 12/30
+Embedded 16/30
+Embedded 20/30
+Embedded 24/30
+Embedded 28/30
+Embedded 30/30
+DONE
+{
+  "n_total": 200,
+  "n_train": 140,
+  "n_val": 30,
+  "n_test": 30,
+  "basic_dim": 29,
+  "esm_model": "facebook/esm2_t33_650M_UR50D",
+  "esm_dim": 1280,
+  "skip_embeddings": false,
+  "cache_file": "cache/data2000/afdb_cache.json",
+  "fail_log_file": "cache/data2000/afdb_fail_log.json"
+}

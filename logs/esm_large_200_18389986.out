@@ -1,0 +1,25 @@
+Loaded 200 UniProt IDs
+Scanned 10/200 | reused=10 | fetched_new=0 | failed=0
+Scanned 20/200 | reused=20 | fetched_new=0 | failed=0
+Scanned 30/200 | reused=30 | fetched_new=0 | failed=0
+Scanned 40/200 | reused=40 | fetched_new=0 | failed=0
+Scanned 50/200 | reused=50 | fetched_new=0 | failed=0
+Scanned 60/200 | reused=60 | fetched_new=0 | failed=0
+Scanned 70/200 | reused=70 | fetched_new=0 | failed=0
+Scanned 80/200 | reused=80 | fetched_new=0 | failed=0
+Scanned 90/200 | reused=90 | fetched_new=0 | failed=0
+Scanned 100/200 | reused=100 | fetched_new=0 | failed=0
+Scanned 110/200 | reused=110 | fetched_new=0 | failed=0
+Scanned 120/200 | reused=120 | fetched_new=0 | failed=0
+Scanned 130/200 | reused=130 | fetched_new=0 | failed=0
+Scanned 140/200 | reused=140 | fetched_new=0 | failed=0
+Scanned 150/200 | reused=150 | fetched_new=0 | failed=0
+Scanned 160/200 | reused=160 | fetched_new=0 | failed=0
+Scanned 170/200 | reused=170 | fetched_new=0 | failed=0
+Scanned 180/200 | reused=180 | fetched_new=0 | failed=0
+Scanned 190/200 | reused=190 | fetched_new=0 | failed=0
+Scanned 200/200 | reused=200 | fetched_new=0 | failed=0
+Cache ready | reused=200 | fetched_new=0 | failed=0
+Usable proteins: 200
+Split sizes | train=140 val=30 test=30
+Using device for ESM: cpu

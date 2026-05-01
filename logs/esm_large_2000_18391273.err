@@ -1,0 +1,81 @@
++ module purge
++ '[' -z '' ']'
++ case "$-" in
++ __lmod_sh_dbg=x
++ '[' -n x ']'
++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output
+Shell debugging restarted
++ unset __lmod_sh_dbg
++ return 0
++ module load GCC/12.3.0 OpenMPI/4.1.5 PyTorch/2.1.2-CUDA-12.1.1
++ '[' -z '' ']'
++ case "$-" in
++ __lmod_sh_dbg=x
++ '[' -n x ']'
++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output
+Shell debugging restarted
++ unset __lmod_sh_dbg
++ return 0
++ cd /scratch/user/udayagirirahul7/ECEN766_final
++ source venv_ecen766/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/scratch/user/udayagirirahul7/ECEN766_final/venv_ecen766
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/sw/eb/sw/PyTorch/2.1.2-foss-2023a-CUDA-12.1.1/bin:/sw/eb/sw/Z3/4.12.2-GCCcore-12.3.0/bin:/sw/eb/sw/sympy/1.12-gfbf-2023a/bin:/sw/eb/sw/poetry/1.5.1-GCCcore-12.3.0/bin:/sw/eb/sw/hatchling/1.18.0-GCCcore-12.3.0/bin:/sw/eb/sw/LibTIFF/4.5.0-GCCcore-12.3.0/bin:/sw/eb/sw/libdeflate/1.18-GCCcore-12.3.0/bin:/sw/eb/sw/zstd/1.5.5-GCCcore-12.3.0/bin:/sw/eb/sw/lz4/1.9.4-GCCcore-12.3.0/bin:/sw/eb/sw/gzip/1.12-GCCcore-12.3.0/bin:/sw/eb/sw/jbigkit/2.1-GCCcore-12.3.0/bin:/sw/eb/sw/libjpeg-turbo/2.1.5.1-GCCcore-12.3.0/bin:/sw/eb/sw/FFmpeg/6.0-GCCcore-12.3.0/bin:/sw/eb/sw/SDL2/2.28.2-GCCcore-12.3.0/bin:/sw/eb/sw/FriBidi/1.0.12-GCCcore-12.3.0/bin:/sw/eb/sw/X11/20230603-GCCcore-12.3.0/bin:/sw/eb/sw/fontconfig/2.14.2-GCCcore-12.3.0/bin:/sw/eb/sw/util-linux/2.39-GCCcore-12.3.0/sbin:/sw/eb/sw/util-linux/2.39-GCCcore-12.3.0/bin:/sw/eb/sw/freetype/2.13.0-GCCcore-12.3.0/bin:/sw/eb/sw/Brotli/1.0.9-GCCcore-12.3.0/bin:/sw/eb/sw/libpng/1.6.39-GCCcore-12.3.0/bin:/sw/eb/sw/expat/2.5.0-GCCcore-12.3.0/bin:/sw/eb/sw/x265/3.5-GCCcore-12.3.0/bin:/sw/eb/sw/LAME/3.100-GCCcore-12.3.0/bin:/sw/eb/sw/x264/20230226-GCCcore-12.3.0/bin:/sw/eb/sw/NASM/2.16.01-GCCcore-12.3.0/bin:/sw/eb/sw/SciPy-bundle/2023.07-gfbf-2023a/bin:/sw/eb/sw/pybind11/2.11.1-GCCcore-12.3.0/bin:/sw/eb/sw/protobuf/24.0-GCCcore-12.3.0/bin:/sw/eb/sw/Python-bundle-PyPI/2023.06-GCCcore-12.3.0/bin:/sw/eb/sw/virtualenv/20.23.1-GCCcore-12.3.0/bin:/sw/eb/sw/Python/3.11.3-GCCcore-12.3.0/bin:/sw/eb/sw/SQLite/3.42.0-GCCcore-12.3.0/bin:/sw/eb/sw/Tcl/8.6.13-GCCcore-12.3.0/bin:/sw/eb/sw/ncurses/6.4-GCCcore-12.3.0/bin:/sw/eb/sw/bzip2/1.0.8-GCCcore-12.3.0/bin:/sw/eb/sw/Ninja/1.11.1-GCCcore-12.3.0/bin:/sw/eb/sw/CUDA/12.1.1/nvvm/bin:/sw/eb/sw/CUDA/12.1.1/bin:/sw/eb/sw/FFTW/3.3.10-GCC-12.3.0/bin:/sw/eb/sw/FlexiBLAS/3.3.1-GCC-12.3.0/bin:/sw/eb/sw/OpenMPI/4.1.5-GCC-12.3.0/bin:/sw/eb/sw/UCC/1.2.0-GCCcore-12.3.0/bin:/sw/eb/sw/PMIx/4.2.4-GCCcore-12.3.0/bin:/sw/eb/sw/libfabric/1.18.0-GCCcore-12.3.0/bin:/sw/eb/sw/UCX/1.14.1-GCCcore-12.3.0/bin:/sw/eb/sw/libevent/2.1.12-GCCcore-12.3.0/bin:/sw/eb/sw/OpenSSL/1.1/bin:/sw/eb/sw/hwloc/2.9.1-GCCcore-12.3.0/sbin:/sw/eb/sw/hwloc/2.9.1-GCCcore-12.3.0/bin:/sw/eb/sw/libxml2/2.11.4-GCCcore-12.3.0/bin:/sw/eb/sw/XZ/5.4.2-GCCcore-12.3.0/bin:/sw/eb/sw/numactl/2.0.16-GCCcore-12.3.0/bin:/sw/eb/sw/binutils/2.40-GCCcore-12.3.0/bin:/sw/eb/sw/GCCcore/12.3.0/bin:/scratch/user/udayagirirahul7/ECEN766_final/venv_ecen766/bin:/sw/local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/usr/lpp/mmfs/bin:/home/udayagirirahul7/.local/bin:/home/udayagirirahul7/bin
+++ PATH=/scratch/user/udayagirirahul7/ECEN766_final/venv_ecen766/bin:/sw/eb/sw/PyTorch/2.1.2-foss-2023a-CUDA-12.1.1/bin:/sw/eb/sw/Z3/4.12.2-GCCcore-12.3.0/bin:/sw/eb/sw/sympy/1.12-gfbf-2023a/bin:/sw/eb/sw/poetry/1.5.1-GCCcore-12.3.0/bin:/sw/eb/sw/hatchling/1.18.0-GCCcore-12.3.0/bin:/sw/eb/sw/LibTIFF/4.5.0-GCCcore-12.3.0/bin:/sw/eb/sw/libdeflate/1.18-GCCcore-12.3.0/bin:/sw/eb/sw/zstd/1.5.5-GCCcore-12.3.0/bin:/sw/eb/sw/lz4/1.9.4-GCCcore-12.3.0/bin:/sw/eb/sw/gzip/1.12-GCCcore-12.3.0/bin:/sw/eb/sw/jbigkit/2.1-GCCcore-12.3.0/bin:/sw/eb/sw/libjpeg-turbo/2.1.5.1-GCCcore-12.3.0/bin:/sw/eb/sw/FFmpeg/6.0-GCCcore-12.3.0/bin:/sw/eb/sw/SDL2/2.28.2-GCCcore-12.3.0/bin:/sw/eb/sw/FriBidi/1.0.12-GCCcore-12.3.0/bin:/sw/eb/sw/X11/20230603-GCCcore-12.3.0/bin:/sw/eb/sw/fontconfig/2.14.2-GCCcore-12.3.0/bin:/sw/eb/sw/util-linux/2.39-GCCcore-12.3.0/sbin:/sw/eb/sw/util-linux/2.39-GCCcore-12.3.0/bin:/sw/eb/sw/freetype/2.13.0-GCCcore-12.3.0/bin:/sw/eb/sw/Brotli/1.0.9-GCCcore-12.3.0/bin:/sw/eb/sw/libpng/1.6.39-GCCcore-12.3.0/bin:/sw/eb/sw/expat/2.5.0-GCCcore-12.3.0/bin:/sw/eb/sw/x265/3.5-GCCcore-12.3.0/bin:/sw/eb/sw/LAME/3.100-GCCcore-12.3.0/bin:/sw/eb/sw/x264/20230226-GCCcore-12.3.0/bin:/sw/eb/sw/NASM/2.16.01-GCCcore-12.3.0/bin:/sw/eb/sw/SciPy-bundle/2023.07-gfbf-2023a/bin:/sw/eb/sw/pybind11/2.11.1-GCCcore-12.3.0/bin:/sw/eb/sw/protobuf/24.0-GCCcore-12.3.0/bin:/sw/eb/sw/Python-bundle-PyPI/2023.06-GCCcore-12.3.0/bin:/sw/eb/sw/virtualenv/20.23.1-GCCcore-12.3.0/bin:/sw/eb/sw/Python/3.11.3-GCCcore-12.3.0/bin:/sw/eb/sw/SQLite/3.42.0-GCCcore-12.3.0/bin:/sw/eb/sw/Tcl/8.6.13-GCCcore-12.3.0/bin:/sw/eb/sw/ncurses/6.4-GCCcore-12.3.0/bin:/sw/eb/sw/bzip2/1.0.8-GCCcore-12.3.0/bin:/sw/eb/sw/Ninja/1.11.1-GCCcore-12.3.0/bin:/sw/eb/sw/CUDA/12.1.1/nvvm/bin:/sw/eb/sw/CUDA/12.1.1/bin:/sw/eb/sw/FFTW/3.3.10-GCC-12.3.0/bin:/sw/eb/sw/FlexiBLAS/3.3.1-GCC-12.3.0/bin:/sw/eb/sw/OpenMPI/4.1.5-GCC-12.3.0/bin:/sw/eb/sw/UCC/1.2.0-GCCcore-12.3.0/bin:/sw/eb/sw/PMIx/4.2.4-GCCcore-12.3.0/bin:/sw/eb/sw/libfabric/1.18.0-GCCcore-12.3.0/bin:/sw/eb/sw/UCX/1.14.1-GCCcore-12.3.0/bin:/sw/eb/sw/libevent/2.1.12-GCCcore-12.3.0/bin:/sw/eb/sw/OpenSSL/1.1/bin:/sw/eb/sw/hwloc/2.9.1-GCCcore-12.3.0/sbin:/sw/eb/sw/hwloc/2.9.1-GCCcore-12.3.0/bin:/sw/eb/sw/libxml2/2.11.4-GCCcore-12.3.0/bin:/sw/eb/sw/XZ/5.4.2-GCCcore-12.3.0/bin:/sw/eb/sw/numactl/2.0.16-GCCcore-12.3.0/bin:/sw/eb/sw/binutils/2.40-GCCcore-12.3.0/bin:/sw/eb/sw/GCCcore/12.3.0/bin:/scratch/user/udayagirirahul7/ECEN766_final/venv_ecen766/bin:/sw/local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/usr/lpp/mmfs/bin:/home/udayagirirahul7/.local/bin:/home/udayagirirahul7/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(venv_ecen766) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(venv_ecen766) '
+++ export VIRTUAL_ENV_PROMPT
+++ '[' -n /bin/bash -o -n '' ']'
+++ hash -r
++ unset PYTHONPATH
++ unset PYTHONHOME
++ export PYTHONNOUSERSITE=1
++ PYTHONNOUSERSITE=1
++ export HF_HOME=/scratch/user/udayagirirahul7/ECEN766_final/hf_home
++ HF_HOME=/scratch/user/udayagirirahul7/ECEN766_final/hf_home
++ mkdir -p logs
++ mkdir -p outputs
++ mkdir -p cache
++ python code/prepare_protein_level_data_esm2.py --id_file data/uniprot_ids_2000.txt --out_dir outputs/esm_large_2000 --cache_dir cache/data2000 --max_proteins 2000 --batch_size 2 --esm_model facebook/esm2_t33_650M_UR50D
+/scratch/user/udayagirirahul7/ECEN766_final/venv_ecen766/lib/python3.11/site-packages/huggingface_hub/file_download.py:949: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: f0ecb732-5783-4536-b95e-6b1464576388)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json
+Retrying in 1s [Retry 1/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: b5d83d59-72be-4e39-bc47-06fb38d59070)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json
+Retrying in 2s [Retry 2/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: 9c3223b7-a99b-414c-9f46-c9d4d9872d6f)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json
+Retrying in 4s [Retry 3/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: 8adbddea-94b7-4a14-a230-c40950cddec9)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json
+Retrying in 8s [Retry 4/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: ca8f97e8-4d41-45c7-b782-2b0212f16d25)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json
+Retrying in 8s [Retry 5/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: 17780bae-39eb-452d-80cc-6d79757135a8)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/tokenizer_config.json
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: bd395233-5cea-401f-abd0-663f2aec4729)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: ce89b029-56a9-47a3-82c7-32d1d6cfeab8)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/config.json
+Retrying in 2s [Retry 2/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: faee35e5-2a17-4b73-954e-72730a20a6ab)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/config.json
+Retrying in 4s [Retry 3/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: 9523c1bb-5b9c-445a-8d74-ebf1e55fc0d3)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/config.json
+Retrying in 8s [Retry 4/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: 1a658a77-b2f6-4ba7-8c3e-a325abe964f7)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/config.json
+Retrying in 8s [Retry 5/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /facebook/esm2_t33_650M_UR50D/resolve/main/config.json (Caused by NewConnectionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))'), '(Request ID: 0d521359-0f49-4eb2-a9e6-16409cce58fb)')' thrown while requesting HEAD https://huggingface.co/facebook/esm2_t33_650M_UR50D/resolve/main/config.json
+Some weights of EsmModel were not initialized from the model checkpoint at facebook/esm2_t33_650M_UR50D and are newly initialized: ['esm.pooler.dense.bias', 'esm.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.

@@ -1,0 +1,28 @@
+DONE
+{
+  "feature_prefix": "esm",
+  "model": "xgb",
+  "seed": 42,
+  "input_dim": 1280,
+  "params": {
+    "n_estimators": 500,
+    "max_depth": 5,
+    "learning_rate": 0.05,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8
+  },
+  "val_metrics": {
+    "pearson": 0.9580311179161072,
+    "spearman": 0.9567083042434898,
+    "mae": 2.687544345855713,
+    "rmse": 3.736971283836779,
+    "r2": 0.9173662662506104
+  },
+  "test_metrics": {
+    "pearson": 0.9507808089256287,
+    "spearman": 0.9453932106101699,
+    "mae": 2.8918039798736572,
+    "rmse": 4.021757082333153,
+    "r2": 0.9032323360443115
+  }
+}
