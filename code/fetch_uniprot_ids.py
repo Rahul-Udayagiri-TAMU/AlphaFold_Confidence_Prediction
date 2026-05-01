@@ -42,12 +42,10 @@ def fetch_ids_reviewed_human(n_ids: int, page_size: int = 500):
             break
 
         next_url = next_link["url"]
-        
         if "cursor=" in next_url:
             cursor = next_url.split("cursor=", 1)[1].split("&", 1)[0]
         else:
             break
-
 
     ids = list(dict.fromkeys(ids))
     return ids[:n_ids]
